@@ -1,0 +1,385 @@
+{
+  "title":"Qual Joestar Você seria?\n(parte 1 a 6)",
+  "questions":[
+    {
+      "id":1,
+      "question": "O que é mais importante para você?",
+      "options":[
+        {"id": 1, "name":"Minha Família", "alias":{
+          "A":1,
+          "B":1,
+          "E":1,
+          "F":1,
+          "G":1,
+          "J":1,
+          "K":1,
+          "L":1,
+          "M":1,
+          "N":1
+          }},
+        {"id": 2, "name":"Poder", "alias":{
+          "C":1,
+          "O":1,
+          "P":1
+          }},
+        {"id": 3, "name":"Meus amigos", "alias":{
+          "F":1,
+          "H":1,
+          "K":1,
+          "L":1,
+          "N":1
+          }},
+        {"id": 4, "name":"Eu mesmo", "alias":{
+          "C":1,
+          "P":1,
+          "O":1,
+          "Q":1
+          }},
+        {"id": 5, "name":"A pessoa que amo", "alias":{
+          "B":1,
+          "D":1,
+          "G":1,
+          "I":1,
+          "P":1,
+          "Q":1
+          }}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você prefere?",
+      "options":[
+        {"id": 1, "name":"Hamon", "alias":{
+          "B":1,
+          "D":1,
+          "F":1,
+          "G":1,
+          "I":1
+          }},
+        {"id": 2, "name":"Stands", "alias":{
+          "C":1,
+          "F":1,
+          "H":1,
+          "K":1,
+          "L":1,
+          "M":1,
+          "N":1,
+          "O":1,
+          "P":1,
+          "Q":1
+          }},
+        {"id": 3, "name":"Vampirismo", "alias":{
+          "C":1,
+          "O":1
+          }},
+        {"id": 4, "name":"Tecnicas de luta normais", "alias":{
+            "A":1,
+            "B":1,
+            "E":1,
+            "K":1,
+            "N":1,
+            "G":1
+          }},
+        {"id": 5, "name":"Estratégia", "alias":{
+            "D":1,
+            "F":1,
+            "H":1,
+            "I":1,
+            "K":1,
+            "J":1
+            }}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual tipo de poder mais combina com você?",
+      "options":[
+        {"id": 1, "name":"Curar", "alias":{
+          "B":1,
+          "D":1,
+          "H":1,
+          "J":1,
+          "L":1
+          }},
+        {"id": 2, "name":"Manipulação/Desenvolvimento", "alias":{
+          "A":1,
+          "C":1,
+          "F":1,
+          "G":1,
+          "H":1,
+          "M":1,
+          "P":1
+          }},
+        {"id": 3, "name":"Movimentação", "alias":{
+          "E":1,
+          "F":1,
+          "G":1
+          }},
+        {"id": 4, "name":"Destruição", "alias":{
+          "C":1,
+          "I":1,
+          "K":1,
+          "O":1
+          }},
+        {"id": 5, "name":"Caos", "alias":{
+          "F":1,
+          "I":1,
+          "Q":1
+          }}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual seu Jojo favorito dentre estes?",
+      "options":[
+        {"id": 1, "name":"Jonathan", "alias":{
+          "A":1,
+          "B":1,
+          "C":0.5,
+          "D":1
+          }},
+        {"id": 2, "name":"Joseph", "alias":{
+          "E":1,
+          "F":1,
+          "G":1,
+          "I":1,
+          "M":1
+          }},
+        {"id": 3, "name":"Jotaro", "alias":{
+            "J":1,
+            "L":1,
+            "N":1
+            }},
+        {"id": 4, "name":"Josuke", "alias":{
+            "K":1,
+            "L":1
+            }},
+        {"id": 5, "name":"Giorno", "alias":{
+            "H":1,
+            "C":1
+            }},
+        {"id": 6, "name":"Jolyne", "alias":{
+              "K":1,
+              "N":1,
+              "P":1
+              }},
+        {"id": 7, "name":"Nenhum", "alias":{
+              "C":1,
+              "O":1,
+              "Q":1
+              }}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual desses hobbies você prefere?",
+      "options":[
+        {"id": 1, "name":"Treinar meu corpo", "alias":{
+          "C":1,
+          "O":1,
+          "B":1,
+          "G":1
+          }},
+        {"id": 2, "name":"Estudar", "alias":{
+          "B":1,
+          "E":1,
+          "K":1
+          }},
+        {"id": 3, "name":"Só relaxar", "alias":{
+            "F":1,
+            "I":1,
+            "L":1,
+            "M":1,
+            "N":1,
+            "Q":1
+          }},
+        {"id": 4, "name":"Planejar meu futuro", "alias":{
+            "A":1,
+            "C":1,
+            "G":1,
+            "H":1,
+            "P":1
+          }},
+          {"id": 5, "name":"Cuidar de casa", "alias":{
+            "D":1,
+            "J":1
+          }}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Você se considera:",
+      "options":[
+        {"id": 1, "name":"Calmo e educado", "alias":{
+          "B":1,
+          "D":1,
+          "G":1
+          }},
+        {"id": 2, "name":"Explosivo e egocêntrico", "alias":{
+          "A":1,
+          "C":1,
+          "O":1
+          }},
+        {"id": 2, "name":"Divertido e bem-humorado", "alias":{
+            "E":1,
+            "F":1,
+            "I":1,
+            "J":1,
+            "L":1
+          }},
+        {"id": 2, "name":"Tranquilo e introvertido", "alias":{
+            "H":1,
+            "K":1,
+            "N":1,
+            "P":1
+          }},
+          {"id": 2, "name":"Estranho e desajeitado", "alias":{
+            "M":1,
+            "Q":1
+          }}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual sua parte favorita?",
+      "options":[
+        {"id": 1, "name":"Phantom Blood", "alias":{
+          "A":1,
+          "B":1,
+          "C":1,
+          "D":1
+          }},
+        {"id": 2, "name":"Battle Tendency", "alias":{
+          "E":1,
+          "F":1,
+          "G":1,
+          "I":1
+          }},
+        {"id": 3, "name":"Stardust Crusaders", "alias":{
+            "F":1,
+            "K":1,
+            "J":1,
+            "C":1
+          }},
+        {"id": 4, "name":"Diamond is Unbreakble", "alias":{
+            "K":1,
+            "N":1
+          }},
+          {"id": 5, "name":"Golden Wind", "alias":{
+            "H":1,
+            "C":1
+          }},
+          {"id": 6, "name":"Stone Ocean", "alias":{
+            "K":1,
+            "N":1,
+            "O":1,
+            "P":1,
+            "Q":1
+          }}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Qual seria sua reação se você fosse preso por um crime que não cometeu?",
+      "options":[
+        {"id": 1, "name":"Ficaria em choque e não saberia o que fazer", "alias":{
+          "D":1,
+          "I":1,
+          "J":1,
+          "M":1,
+          "L":1
+          }},
+        {"id": 2, "name":"Faria tudo que pudesse pra provar minha inocência", "alias":{
+          "A":1,
+          "B":1,
+          "E":1,
+          "N":1
+          }},
+        {"id": 3, "name":"Esperaria o momento certo para fugir", "alias":{
+            "F":1,
+            "G":1,
+            "P":1,
+            "Q":1
+          }},
+        {"id": 4, "name":"Não faria nada, talvez seja até melhor que eu esteja preso", "alias":{
+            "K":1
+          }},
+          {"id": 5, "name":"Tentaria subornar quem fosse me prender", "alias":{
+            "C":1,
+            "H":1,
+            "O":1
+          }}
+      ]
+    }
+  ],
+  "results":{
+    "A": {
+      "result":"Jorge Joestar I",
+      "img":"assets/imgs/George I.webp"
+    },
+    "B": {
+      "result": "Jonathan Joestar",
+      "img": "assets/imgs/Jonathan.png"
+    },
+    "C": {
+      "result": "Dio Joestar",
+      "img": "assets/imgs/Dio.webp"
+    },
+    "D": {
+      "result": "Erina Joestar",
+      "img": "assets/imgs/Erina.webp"
+    },
+    "E": {
+      "result": "Jorge Joestar II",
+      "img": "assets/imgs/Jorge II.jpg"
+    },
+    "F": {
+      "result": "Joseph Joestar",
+      "img": "assets/imgs/Joseph.png"
+    },
+    "G": {
+      "result": "Elizabeth Joestar (Lisa Lisa)",
+      "img": "assets/imgs/Lisa Lisa.jpg"
+    },
+    "H": {
+      "result": "Giorno Giovanna",
+      "img": "assets/imgs/Giorno.jpg"
+    },
+    "I": {
+      "result": "Suzi Q",
+      "img": "assets/imgs/SuziQ.webp"
+    },
+    "J": {
+      "result": "Holy Kujo",
+      "img": "assets/imgs/Holy.webp"
+    },
+    "K": {
+      "result": "Jotaro Kujo",
+      "img": "assets/imgs/Jotaro.jpg"
+    },
+    "L": {
+      "result": "Josuke Higashikata",
+      "img": "assets/imgs/Josuke.webp"
+    },
+    "M": {
+      "result": "Shizuka Joestar (a bebê invisível)",
+      "img": "assets/imgs/Shizuka.webp"
+    },
+    "N": {
+      "result": "Jolyne Cujoh",
+      "img": "assets/imgs/Jolyne.avif"
+    },
+    "O": {
+      "result": "Donatello Versus",
+      "img": "assets/imgs/Donatello.png"
+    },
+    "P": {
+      "result": "Rikiel",
+      "img": "assets/imgs/Rikiel.webp"
+    },
+    "Q": {
+      "result": "Ungalo",
+      "img": "assets/imgs/Ungalo.webp"
+    }
+  }
+}
